@@ -1,1 +1,1 @@
-archivo nuevo.txt
+archivo nuevo otro.txt
